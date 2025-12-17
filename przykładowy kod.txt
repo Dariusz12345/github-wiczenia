@@ -3,3 +3,6 @@ kod
 function witaj(imie) {
 console.log(`cześć ${imie}`)
 }
+
+
+zmiana na gałęzi
