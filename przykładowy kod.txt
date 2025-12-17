@@ -1,0 +1,5 @@
+kod 
+
+function witaj(imie) {
+console.log(`cześć ${imie}`)
+}
