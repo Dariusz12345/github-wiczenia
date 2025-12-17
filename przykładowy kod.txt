@@ -1,5 +1,1 @@
-kod 
-
-function witaj(imie) {
-console.log(`cześć ${imie}`)
-}
+przykładowy kod
